@@ -1,0 +1,16 @@
+[project]
+name = "benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bokeh>=3.6.0",
+    "bottleneck>=1.4.2",
+    "cmcrameri>=1.9",
+    "matplotlib>=3.9.2",
+    "netcdf4>=1.7.1.post2",
+    "pyarrow>=17.0.0",
+    "pyyaml>=6.0.2",
+    "xarray>=2024.9.0",
+]
